@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+# making a change to commit - in video it was a file type but he went to fast so need to rewatch ig
 .Python
 build/
 develop-eggs/
